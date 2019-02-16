@@ -11,6 +11,11 @@
   "dependencies": {
     "discord.js": "^11.4.2",
     "discord.js-commando": "^0.10.0",
-    "ffmpeg": "0.0.4"
+    "es6-promise": "^4.2.5",
+    "ffmpeg": "0.0.4",
+    "isomorphic-fetch": "^2.2.1",
+    "nodemon": "^1.18.10",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.29.1"
   }
 }
